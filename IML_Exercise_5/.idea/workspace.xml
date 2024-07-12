@@ -28,6 +28,7 @@
     "Python.Eigenfaces.executor": "Run",
     "Python.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/rohit/PycharmProjects/IML_Exercise_5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,6 +66,7 @@
       <workItem from="1720773497683" duration="916000" />
       <workItem from="1720775109939" duration="232000" />
       <workItem from="1720775353618" duration="350000" />
+      <workItem from="1720775708277" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
