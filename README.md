@@ -1,4 +1,4 @@
-Assignments / Projects on machine learning @Freidrich-Alexander-Universitat
+# Assignments / Projects on machine learning @Freidrich-Alexander-Universitat
 
 IDE : PyCharm
 Language : Python
