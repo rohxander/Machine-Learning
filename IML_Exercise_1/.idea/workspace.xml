@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="293a1f71-3159-40f9-89f9-eb68036f7bc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2g8EIpZ78AY3PKAdsKWE2MpdOSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in _waveforms.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_piano.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_signals.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chirp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decomposition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_1_piano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rohit/PycharmProjects/IML_Exercise_1/.venv/Include&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rohit\PycharmProjects\IML_Exercise_1\.venv\Include" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293a1f71-3159-40f9-89f9-eb68036f7bc5" name="Changes" comment="" />
+      <created>1715070727952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715070727952</updated>
+      <workItem from="1715070729342" duration="3483000" />
+      <workItem from="1715203464646" duration="10000" />
+      <workItem from="1715275006224" duration="3370000" />
+      <workItem from="1715583042414" duration="5339000" />
+      <workItem from="1715589783527" duration="6786000" />
+      <workItem from="1715633709578" duration="3086000" />
+      <workItem from="1715669726811" duration="2957000" />
+      <workItem from="1715685714258" duration="3300000" />
+      <workItem from="1715770613667" duration="454000" />
+      <workItem from="1715808249613" duration="69000" />
+      <workItem from="1715936558555" duration="18803000" />
+      <workItem from="1716392081292" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$main.coverage" NAME="main Coverage Results" MODIFIED="1715961319998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Include" />
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$decomposition.coverage" NAME="decomposition Coverage Results" MODIFIED="1715961437567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Include" />
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$chirp.coverage" NAME="chirp Coverage Results" MODIFIED="1715587198786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Include" />
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$exercise_1_piano.coverage" NAME="exercise_1_piano Coverage Results" MODIFIED="1715971391927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Include" />
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$.coverage" NAME=" Coverage Results" MODIFIED="1715972154133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Include" />
+    <SUITE FILE_PATH="coverage/IML_Exercise_1$Doctests_in__waveforms.coverage" NAME="Doctests in _waveforms Coverage Results" MODIFIED="1715278144343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/scipy/signal" />
+  </component>
+</project>
