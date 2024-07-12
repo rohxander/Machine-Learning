@@ -18,6 +18,7 @@ Assignment 2 : Thresholding and Histograms
 Assignment 3 : Convolution and Edge Detection
 
 Assignment 4 : Palm Print Identification
-  <img width="428" alt="image" src="https://github.com/user-attachments/assets/94c37e40-7617-4351-b797-0a4aed8b9d8f">
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/94c37e40-7617-4351-b797-0a4aed8b9d8f">
+![Screenshot 2024-07-08 192236](https://github.com/user-attachments/assets/12252be4-f8f5-4aa7-9803-3418ac9fdea1)
 
 Assignment 5 : Face Recognition
